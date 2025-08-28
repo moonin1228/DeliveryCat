@@ -1,6 +1,7 @@
 # 택배왔냥 (Cat Delivery)
 
-<img width="275" height="263" alt="image" src="https://github.com/user-attachments/assets/ebe2c5fc-01dd-437d-80b2-499377f0d537" />
+<img width="224" height="217" alt="택배왔냥 로고" src="https://github.com/user-attachments/assets/d4a0e658-94af-4106-bb5c-420a21e5e3c6" />
+
 
 > **고양이 테마의 소코반 퍼즐 게임** 🎮  
 > 방꾸미기와 퀘스트 시스템을 결합한 Unity 2D 게임
