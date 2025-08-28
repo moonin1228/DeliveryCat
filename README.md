@@ -121,7 +121,7 @@
 
 |csv 파일 형식 | 인게임 |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/085e372a-8776-4312-8ba2-ed53abbd5362" width="600" /> | <img src="https://github.com/user-attachments/assets/e74c1844-6d0b-4b7a-81c4-a705adc37539" width="300" /> |
+| <img width="413" height="173" alt="화면 캡처 2025-08-28 160708" src="https://github.com/user-attachments/assets/1c8af57e-ca1c-44e5-8164-c0bca5ca6cd7" /> |<img width="224" height="400" alt="화면 캡처 2025-08-28 160748" src="https://github.com/user-attachments/assets/29b36afd-7f50-414a-b387-23806d8a2a65" />|
 
 CSV 파일에 정의된 데이터는 그대로 2차원 배열로 변환되어 게임 내 타일맵으로 매핑되며, 결과적으로 위와 같이 인게임 화면에서 동일한 스테이지 구조가 재현됩니다.
 
